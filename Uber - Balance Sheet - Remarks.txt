@@ -1,0 +1,25 @@
+The category `Inventories` in the textbook's balance sheet in Table 2.1 - page 20 - is replaced with `Other current assets`.
+
+I group the following categories on WSJ's balance sheet into mine `Intangible assets and others`:
+1. Total Investments and Advances
+2. Intangible Assets
+3. Other Assets
+
+I group the following categories on WSJ's balance sheet into mine `Other current liabilities`:
+1. ST Debt & Current Portion LT Debt
+(abbreviated for `Short-term Debt and Current Portion Long-term Debt`)
+2. Income Tax Payable
+3. Other Current Liabilities
+
+I group the following categories on WSJ's balance sheet into mine `Other long-term liabilities`:
+1. Provision for Risks & Charges
+2. Other Liabilities
+
+I group the following categories on WSJ's balance sheet into mine `Other common equity`:
+1. Additional Paid-In Capital/Capital Surplus
+2. Cumulative Translation Adjustment/Unrealized For. Exch. Gain
+3. Unrealized Gain/Loss Marketable Securities
+The corresponding categories in the textbook's balance sheet in Table 2.1 - page 20 - are:
+1. Common stock
+2. Capital surplus
+3. Less treasury stock

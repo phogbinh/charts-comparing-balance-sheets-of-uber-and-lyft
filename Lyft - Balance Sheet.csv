@@ -1,0 +1,38 @@
+Source: https://www.wsj.com/market-data/quotes/LYFT/financials/annual/balance-sheet,,,
+Fiscal year is January-December. All values USD Millions.,2019,2018,2017
+Assets:,,,
+Current assets:,,,
+Cash and equivalents,2850,2039,2391
+Accounts receivable,,,
+Other current assets,397,281,173
+Total current assets,3247,2320,2564
+Fixed assets:,,,
+"Property, plant, and equipment",672,121,17
+Less accumulated depreciation,42,12,3
+"Net property, plant and equipment",630,109,14
+Intangible assets and others,1814,1330,439
+Total fixed assets,2444,1439,453
+Total assets,5691,3759,3017
+Liabilities and equity:,,,
+Liabilities:,,,
+Current liabilities:,,,
+Accounts payable,39,32,67
+Other current liabilities,2412,1416,630
+Total current liabilities,2451,1448,697
+Long-term liabilities:,,,
+Deferred taxes,,,
+Long-term debt,382,,
+Other long-term liabilities,4,30,15
+Total long-term liabilities,386,30,15
+Total liabilities,2837,1478,712
+Equity:,,,
+Stockholders’ equity:,,,
+Preferred stock,,5152,4284
+Common equity:,,,
+Accumulated retained earnings,-5548,-2945,-2034
+Other common equity,8402,74,55
+Total common equity,2854,-2871,-1979
+Total stockholders’ equity,2854,2281,2305
+Accumulated minority interest,,,
+Total equity,2854,2281,2305
+Total liabilities and equity,5691,3759,3017

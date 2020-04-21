@@ -1,0 +1,38 @@
+Source: https://www.wsj.com/market-data/quotes/UBER/financials/annual/balance-sheet,,,
+Fiscal year is January-December. All values USD Millions.,2019,2018,2017
+Assets:,,,
+Current assets:,,,
+Cash and equivalents,11412,6473,4535
+Accounts receivable,1642,1335,926
+Other current assets,871,850,1376
+Total current assets,13925,8658,6837
+Fixed assets:,,,
+"Property, plant, and equipment",4699,2587,1723
+Less accumulated depreciation,1374,946,531
+"Net property, plant and equipment",3325,1641,1192
+Intangible assets and others,14511,13689,7397
+Total fixed assets,17836,15330,8589
+Total assets,31761,23988,15426
+Liabilities and equity:,,,
+Liabilities:,,,
+Current liabilities:,,,
+Accounts payable,272,150,213
+Other current liabilities,5367,4109,3634
+Total current liabilities,5639,4259,3847
+Long-term liabilities:,,,
+Deferred taxes,1027,1072,1041
+Long-term debt,7308,9323,4855
+Other long-term liabilities,2604,2542,2030
+Total long-term liabilities,10939,12937,7926
+Total liabilities,16578,17196,11773
+Equity:,,,
+Stockholders’ equity:,,,
+Preferred stock,,14177,12210
+Common equity:,,,
+Accumulated retained earnings,-16362,-7865,-8874
+Other common equity,30552,480,317
+Total common equity,14190,-7385,-8557
+Total stockholders’ equity,14190,6792,3653
+Accumulated minority interest,993,,
+Total equity,15183,6792,3653
+Total liabilities and equity,31761,23988,15426

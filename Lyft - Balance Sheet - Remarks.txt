@@ -1,0 +1,37 @@
+In the year 2018, there are mismatches of 1 between the balance sheet of mine and that of WSJ.
+1. Total assets
+My calculated figure: 3,759
+WSJ reported figure: 3,760
+2. Total current liabilities
+My calculated figure: 1,448
+WSJ reported figure: 1,449
+3. Total liabilities
+My calculated figure: 1,478
+WSJ reported figure: 1,479
+4. Total liabilities and equity
+My calculated figure: 3,759
+WSJ reported figure: 3,760
+
+The balance sheet format of Lyft is taken from that of Uber.
+
+I group the following categories on WSJ's balance sheet into mine `Intangible assets and others`:
+1. Total Investments and Advances
+2. Intangible Assets
+3. Other Assets
+
+I group the following categories on WSJ's balance sheet into mine `Other current liabilities`:
+1. ST Debt & Current Portion LT Debt
+(abbreviated for `Short-term Debt and Current Portion Long-term Debt`)
+2. Other Current Liabilities
+
+I group the following categories on WSJ's balance sheet into mine `Other long-term liabilities`:
+1. Other Liabilities
+
+I group the following categories on WSJ's balance sheet into mine `Other common equity`:
+1. Common Stock Par/Carry Value
+2. Additional Paid-In Capital/Capital Surplus
+3. Other Appropriated Reserves
+The corresponding categories in the textbook's balance sheet in Table 2.1 - page 20 - are:
+1. Common stock
+2. Capital surplus
+3. Less treasury stock
